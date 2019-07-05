@@ -23,7 +23,7 @@ Because Docker increases productivity and reduces the time it takes to bring app
 
 ## Credits 
 1. Developed by [Eduardo Gonçalves](https://twitter.com/eduardofg87), I am also on [Telegram](https://t.me/eduardofg87).
-1. [PHP 7.3](https://www.php.net/)
+1. [PHP 7.2](https://www.php.net/)
 1. [NGINX 1.15](https://nginx.org/)
 1. [MYSQL](https://www.mysql.com/)
 1. [Docker](https://www.docker.com/)
